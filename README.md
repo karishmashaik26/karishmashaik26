@@ -17,51 +17,49 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 
 ## 🛠️ Projects
 
-### 🔸 Software-Defined Radar Using MATLAB GUI
+### 🔸 Software-Defined Radar Using MATLAB GUI  
 **Duration:** April 2025  
-- Technologies: `MATLAB`, `Simulink`, `DSP`, `Radar System Design`
-- Implemented a flexible SDR system with real-time GUI.
-- Features: Range-Doppler analysis, CFAR-based target detection, and clutter suppression.
-- Supports multi-frequency (1–20 GHz) operation.
+- Technologies: `MATLAB`, `Simulink`, `DSP`, `Radar System Design`  
+- Implemented a flexible SDR system with real-time GUI.  
+- Features: Range-Doppler analysis, CFAR-based target detection, and clutter suppression.  
+- Supports multi-frequency (1–20 GHz) operation.  
 - Scalable for defense, automotive, and aerospace applications.
 
-### 🔸 AMBA APB Interface Module for Low-Frequency Domains
+### 🔸 AMBA APB Interface Module for Low-Frequency Domains  
 **Duration:** 2025 | Team Size: 5  
-- Tools: `Verilog`, `Xilinx Vivado`, `Finite State Machine (FSM)`
-- Designed and implemented an AMBA APB compliant interface module.
-- Focused on low-power and low-area consumption for SoC integration.
-- Key Functions:
-  - FSM-based APB transaction flow: IDLE → SETUP → ACCESS
-  - Read/write logic using signals like `PCLK`, `PSEL`, `PWRITE`, `PRDATA`
-- Simulated and verified with waveform analysis confirming protocol compliance.
+- Tools: `Verilog`, `Xilinx Vivado`, `Finite State Machine (FSM)`  
+- Designed a Verilog-based AMBA APB interface for low-frequency, low-power peripherals.  
+- Used an FSM to handle IDLE, SETUP, and ACCESS states as per the APB protocol.  
+- Simulation confirmed protocol compliance, correct timing, and minimal area usage.  
+- Ideal for simple, energy-efficient SoC integrations.
 
-### 🔸 Automatic Gate Control Based on People Count
+### 🔸 Automatic Gate Control Based on People Count  
 **Duration:** Mar 2024 – Aug 2024  
-- Hardware: `Arduino UNO`, `IR Sensors`
-- Gate automation using real-time people count logic.
-- Prevents overcrowding and ensures smart entry/exit.
+- Hardware: `Arduino UNO`, `IR Sensors`  
+- Gate automation using real-time people count logic.  
+- Prevents overcrowding and ensures smart entry/exit.  
 - Ideal for smart buildings and public venues.
 
-### 🔸 Automatic Car Parking System Using NodeMCU
+### 🔸 Automatic Car Parking System Using NodeMCU  
 **Duration:** Nov 2022 – Apr 2023  
-- IoT-based solution using `NodeMCU` and `Ultrasonic Sensors`.
-- Real-time parking slot detection and cloud sync via Blynk/ThingSpeak.
+- IoT-based solution using `NodeMCU` and `Ultrasonic Sensors`.  
+- Real-time parking slot detection and cloud sync via Blynk/ThingSpeak.  
 - Smart monitoring through web/LCD interfaces.
 
-### 🔸 Smart Irrigation System
+### 🔸 Smart Irrigation System  
 **Duration:** Jun 2022 – Nov 2022  
-- Tools: `Arduino UNO`, `Soil Moisture Sensor`, `DHT11`
-- Automates irrigation based on real-time temperature and humidity.
+- Tools: `Arduino UNO`, `Soil Moisture Sensor`, `DHT11`  
+- Automates irrigation based on real-time temperature and humidity.  
 - Efficient water usage and environment-friendly system design.
 
 ---
 
 ## 🎓 Internship
 
-### 🔹 Military College of Electronics and Mechanical Engineering (Jan – Apr 2025)
+### 🔹 Military College of Electronics and Mechanical Engineering (Jan – Apr 2025)  
 **Role:** Intern  
-- Focused on Radar System Design using MATLAB & Simulink.
-- Developed GUI-based software-defined radar simulations.
+- Focused on Radar System Design using MATLAB & Simulink.  
+- Developed GUI-based software-defined radar simulations.  
 - Enhanced skills in Range-Doppler analysis and clutter filtering.
 
 ---
@@ -70,8 +68,9 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 
 - **📧 Email:** karishmask1524@gmail.com  
 - **📞 Phone:** +91-9515586766  
-- **📍 Location:** Khammam, Telangana, India
-
+- **📍 Location:** Khammam, Telangana, India  
+- **🔗 LinkedIn:** [karishma-shaik-b511882ba](https://www.linkedin.com/in/karishma-shaik-b511882ba)  
+- **💻 GitHub:** [karishmashaik26](https://github.com/karishmashaik26)
 
 ---
 
@@ -82,5 +81,3 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 - Watching movies and tech exploration
 
 ---
-
-> Feel free to explore each project folder in this repository for code, schematics, and documentation.
