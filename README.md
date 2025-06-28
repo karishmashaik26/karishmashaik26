@@ -25,6 +25,16 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 - Supports multi-frequency (1–20 GHz) operation.
 - Scalable for defense, automotive, and aerospace applications.
 
+### 🔸 AMBA APB Interface Module for Low-Frequency Domains
+**Duration:** 2025 | Team Size: 5  
+- Tools: `Verilog`, `Xilinx Vivado`, `Finite State Machine (FSM)`
+- Designed and implemented an AMBA APB compliant interface module.
+- Focused on low-power and low-area consumption for SoC integration.
+- Key Functions:
+  - FSM-based APB transaction flow: IDLE → SETUP → ACCESS
+  - Read/write logic using signals like `PCLK`, `PSEL`, `PWRITE`, `PRDATA`
+- Simulated and verified with waveform analysis confirming protocol compliance.
+
 ### 🔸 Automatic Gate Control Based on People Count
 **Duration:** Mar 2024 – Aug 2024  
 - Hardware: `Arduino UNO`, `IR Sensors`
@@ -60,7 +70,8 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 
 - **📧 Email:** karishmask1524@gmail.com  
 - **📞 Phone:** +91-9515586766  
-- **📍 Location:** Hyderabad, Telangana, India
+- **📍 Location:** Khammam, Telangana, India
+
 
 ---
 
