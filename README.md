@@ -24,12 +24,16 @@ Welcome to my GitHub repository! This space showcases my technical projects, int
 - Learned embedded C programming and circuit debugging techniques.  
 - Strengthened my foundation for academic projects in automation and IoT systems.
 
+---
+
+## 🧪 Workshops
+
 ### 🔹 Robotics Workshop – CMR College of Engineering & Technology  
-**Duration:** During B.Tech second Year  
-- Participated in a hands-on robotics workshop covering sensor-based control and automation.  
-- Learned basics of robotic hardware, motor control, and obstacle-avoidance logic.  
-- Worked with Arduino and simulation tools to build simple autonomous robots.  
-- Gained foundational understanding of embedded robotics in real-world applications.
+**Duration:** During B.Tech Second Year  
+- Attended an introductory workshop on robotics and automation.  
+- Gained exposure to basic robotic hardware, sensor usage, and motor control.  
+- Built a simple Arduino-based robot with obstacle avoidance capabilities.  
+- Sparked further interest in embedded systems and automation projects.
 
 ---
 
@@ -99,4 +103,4 @@ Welcome to my GitHub repository! This space showcases my technical projects, int
 - Anchoring events and essay writing  
 - Watching movies and tech exploration
 
----
+
