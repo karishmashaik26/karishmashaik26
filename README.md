@@ -1,6 +1,6 @@
 # 💡 Shaik Karishma - Projects and Internships Portfolio
 
-Welcome to my GitHub repository! This space showcases my technical projects and internship work completed as part of my B.Tech in Electronics & Communication Engineering from CMR College of Engineering & Technology, Hyderabad.
+Welcome to my GitHub repository! This space showcases my technical projects, internships, and training experiences completed as part of my B.Tech in Electronics & Communication Engineering from CMR College of Engineering & Technology, Hyderabad.
 
 ---
 
@@ -8,10 +8,28 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 
 - **B.Tech. in Electronics & Communication Engineering**  
   *CMR College of Engineering & Technology, Hyderabad*  
-  CGPA: **8.47 / 10** (2022 - 2026)
+  CGPA: **8.47 / 10** (2022 – 2026)
 
 - **Diploma:** 98.3%  
 - **10th Standard:** 95%
+
+---
+
+## 🧠 Trainings
+
+### 🔹 SAK Informatics, Hyderabad – Embedded Systems Training  
+**Duration:** Jun 2022 – Nov 2022  
+- Completed practical training focused on embedded systems and real-time project development.  
+- Gained hands-on experience with microcontrollers, Arduino, and sensor-based applications.  
+- Learned embedded C programming and circuit debugging techniques.  
+- Strengthened my foundation for academic projects in automation and IoT systems.
+
+### 🔹 Robotics Workshop – CMR College of Engineering & Technology  
+**Duration:** During B.Tech second Year  
+- Participated in a hands-on robotics workshop covering sensor-based control and automation.  
+- Learned basics of robotic hardware, motor control, and obstacle-avoidance logic.  
+- Worked with Arduino and simulation tools to build simple autonomous robots.  
+- Gained foundational understanding of embedded robotics in real-world applications.
 
 ---
 
@@ -56,7 +74,8 @@ Welcome to my GitHub repository! This space showcases my technical projects and 
 
 ## 🎓 Internship
 
-### 🔹 Military College of Electronics and Mechanical Engineering (Jan – Apr 2025)  
+### 🔹 Military College of Electronics and Mechanical Engineering  
+**Duration:** Jan – Apr 2025  
 **Role:** Intern  
 - Focused on Radar System Design using MATLAB & Simulink.  
 - Developed GUI-based software-defined radar simulations.  
