@@ -87,6 +87,18 @@ Welcome to my GitHub repository! This space showcases my technical projects, int
 
 ---
 
+## 📄 Journal paper
+
+### 🔹 *PRANATRANA: A Smart Bridge Overweight Detection System*  
+- **Authors:** Shaik Karishma, P. Vijayalaxmi, Praneeth, Mahima, Rudhira  
+- A hardware prototype to detect bridge overloading using **Arduino Uno**, **Load Cell**, **Servo Motor**, and **LCD Display**.  
+- Designed to prevent structural failures and improve public safety in crowded tourist areas.  
+- The system monitors real-time weight and triggers alerts based on defined thresholds.  
+- Combines embedded systems and safety engineering for smart infrastructure solutions.  
+- _Published as part of an academic team research paper._
+
+---
+
 ## 📬 Contact
 
 - **📧 Email:** karishmask1524@gmail.com  
@@ -102,5 +114,3 @@ Welcome to my GitHub repository! This space showcases my technical projects, int
 - Robotics, VLSI & Digital Electronics  
 - Anchoring events and essay writing  
 - Watching movies and tech exploration
-
-
